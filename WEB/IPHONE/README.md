@@ -19,7 +19,8 @@ To solve this challenge, you'll need to brute-force all possible 4-digit PINs in
 
 You can do this with Burpsuite or Caido
 
-[Watch the video](video.mp4)
+[![Watch the video](https://img.youtube.com/vi/vmaNI-1X_Os/maxresdefault.jpg)](https://youtu.be/vmaNI-1X_Os)
+
 
 
 
